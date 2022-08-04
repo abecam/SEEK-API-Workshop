@@ -2,7 +2,7 @@
 
 ## Links
 - [Workshop Resources](https://github.com/whomingbird/SEEK-API-Workshop)
-- [The Seek-Test-Instance for this workshop](https://sandbox2.fairdomhub.org)
+- [The Seek-Test-Instance for this workshop](https://sandbox9.fairdomhub.org)
 - Documentation
   - [Seek homepage](https://seek4science.org)
   - [The Seek documentation](https://docs.seek4science.org)
